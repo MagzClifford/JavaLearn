@@ -1,2 +1,2 @@
 # JavaLearn
-JavaScript Tutorias from watch and code
+JavaScript Tutorials from watch and code
